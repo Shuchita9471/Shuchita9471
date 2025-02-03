@@ -44,5 +44,5 @@ Selenium, Spring Boot, Node.js, Tailwind CSS
 
 ## 🔗 Links
 
-- 🧩 **LeetCode:** [Shuchita Yadav](#)  
-- 🖥 **GeeksforGeeks:** [Shuchita Yadav](#)
+- 🧩 **LeetCode:** [Shuchita Yadav](https://leetcode.com/u/shuchita9471/)  
+- 🖥 **GeeksforGeeks:** [Shuchita Yadav](https://www.geeksforgeeks.org/user/sy20nov2000/?ref=header_profile)
