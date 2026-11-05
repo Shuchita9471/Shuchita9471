@@ -101,9 +101,7 @@ I'm a Software Engineer with 3+ years of experience building scalable applicatio
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shuchita-yadav/)
-- 🧑‍💻 [GitHub](https://github.com/Shuchita9471)
-- 🧩 [LeetCode](https://leetcode.com/u/shuchita9471/)
-- 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/sy20nov2000/)
+- 🧩 [LeetCode](https://leetcode.com/u/kinght_lord/)
 
 ---
 
